@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '55 12  * *  *'
+    - cron: '55 02  * *  *'
 
 jobs:
   auto_renew:
